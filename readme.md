@@ -45,9 +45,9 @@ I have been working professionally as a software developer since 2014.
 
 ### Stats
 <p>
-  <img height="125em" src="https://github-readme-stats.vercel.app/api?username=jormanespinoza&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" alt="jormanepinoza github stats" />
-  <img height="125em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jormanespinoza&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&locale=en" alt="jormanespinoza most used languages" />
-  <img height="125em" src="https://github-readme-streak-stats.herokuapp.com/?user=jormanespinoza&" alt="jormanespinoza herokuapp stats" />
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=jormanespinoza&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" alt="jormanepinoza github stats" />
+  <img height="120em" src="https://github-readme-streak-stats.herokuapp.com/?user=jormanespinoza&" alt="jormanespinoza herokuapp stats" />
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jormanespinoza&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&locale=en" alt="jormanespinoza most used languages" />
 </p>
 
 ### Get in touch
