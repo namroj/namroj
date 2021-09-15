@@ -39,6 +39,7 @@ I have been working professionally as a software developer since 2014.
 - 💻  I currently work as a **backend** developer at [Glamit](https://www.glamit.com.ar)
 - 🌏  I do freelance in my free time, here is my [portfolio](https://www.jormanespinoza) (to update soon)
 - 🚀  I am a student at [Platzi](https://platzi.com/p/_jormanespinoza)
+- 🚀  I am a student at [Udemy](https://www.udemy.com/user/daniel-espinoza-15)
 - 🔼  I personally enjoy clean code
 - ⚽ I have been a football player since I was 8 years old
 - 🎮 I like video games (the reason why I stared programming)
