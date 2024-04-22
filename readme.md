@@ -1,17 +1,17 @@
 # Hi there, I am Jorman Espinoza
 >[Jorman Daniel Espinoza Torrealba](https://jormanespinoza.com/ "Jorman Espinoza") | Software Developer
 
-[![Website Badge](https://img.shields.io/badge/Website-283618?style=flat-square&logo=google-chrome&logoColor=283618&label=jormanespinoza&labelColor=111111)](https://jormanespinoza.com)
+[![Website Badge](https://img.shields.io/badge/Website-283618?style=flat-square&logo=google-chrome&logoColor=283618&label=jormanespinoza&labelColor=111111)](https://jorman.dev)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=0e76a8&label=jormanespinoza&labelColor=111111)](https://www.linkedin.com/in/jormanespinoza)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=00acee&label=_jormanespinoza&labelColor=111111)](https://twitter.com/_jormanespinoza)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=e4405f&label=_jormanespinoza&labelColor=111111)](https://www.instagram.com/_jormanespinoza)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=00acee&label=jormandev&labelColor=111111)](https://twitter.com/jormandev)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=e4405f&label=jorman.dev&labelColor=111111)](https://www.instagram.com/jorman.dev)
 
 ## Professional software developer
 I have been working professionally as a software developer since 2014.
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/_jormanespinoza?style=social)](https://twitter.com/_jormanespinoza)
-![GitHub Followers](https://img.shields.io/github/followers/jormanespinoza?style=social)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=jormanespinoza.jormanespinoza)
+[![Twitter Follow](https://img.shields.io/twitter/follow/jormandev?style=social)](https://twitter.com/jormandev)
+![GitHub Followers](https://img.shields.io/github/followers/namroj?style=social)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=namroj.namroj)
 ### Skills
 [![Git badge](https://img.shields.io/badge/git-e84e31?style=for-the-badge&logo=git&logoColor=e84e31e&labelColor=111111)](https://git-scm.com)
 [![AWS badge](https://img.shields.io/badge/aws-232f3f?style=for-the-badge&logo=amazon-aws&logoColor=f8981d&labelColor=111111)](https://aws.amazon.com)
@@ -37,7 +37,7 @@ I have been working professionally as a software developer since 2014.
 - 🇻🇪  &nbsp;  I am originally from Venezuela
 - 🇦🇷  &nbsp;  I have been living and working in Argentina since 2017
 - 💻  I currently work as a **backend** developer at [Glamit](https://www.glamit.com.ar)
-- 🌏  I do freelance in my free time, here is my [portfolio](https://www.jormanespinoza) (to update soon)
+- 🌏  I do freelance in my free time, here is my [portfolio](https://www.jorman.dev)
 - 🚀  I am a student at [Platzi](https://platzi.com/p/_jormanespinoza)
 - 🚀  I am a student at [Udemy](https://www.udemy.com/user/daniel-espinoza-15)
 - 🔼  I personally enjoy clean code
@@ -46,9 +46,9 @@ I have been working professionally as a software developer since 2014.
 
 ### Stats
 <p>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=jormanespinoza&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" alt="jormanepinoza github stats" />
-  <img height="120em" src="https://github-readme-streak-stats.herokuapp.com/?user=jormanespinoza&" alt="jormanespinoza herokuapp stats" />
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jormanespinoza&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&locale=en" alt="jormanespinoza most used languages" />
+  <img height="220em" src="https://github-readme-stats.vercel.app/api?username=namroj&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=tokyonight" alt="namroj github stats" />
+  <img height="120em" src="https://github-readme-streak-stats.herokuapp.com/?user=namroj" alt="namroj herokuapp stats" />
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namroj&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&locale=en" alt="namroj most used languages" />
 </p>
 
 ### Get in touch
