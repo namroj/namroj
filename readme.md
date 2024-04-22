@@ -11,7 +11,7 @@ I have been working professionally as a software developer since 2014.
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/jormandev?style=social)](https://twitter.com/jormandev)
 ![GitHub Followers](https://img.shields.io/github/followers/namroj?style=social)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=namroj.namroj)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=namroj)
 ### Skills
 [![Git badge](https://img.shields.io/badge/git-e84e31?style=for-the-badge&logo=git&logoColor=e84e31e&labelColor=111111)](https://git-scm.com)
 [![AWS badge](https://img.shields.io/badge/aws-232f3f?style=for-the-badge&logo=amazon-aws&logoColor=f8981d&labelColor=111111)](https://aws.amazon.com)
