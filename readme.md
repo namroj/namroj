@@ -46,9 +46,11 @@ I have been working professionally as a software developer since 2014.
 
 ### Stats
 <p>
-  <img height="220em" src="https://github-readme-stats.vercel.app/api?username=namroj&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=tokyonight" alt="namroj github stats" />
-  <img height="120em" src="https://github-readme-streak-stats.herokuapp.com/?user=namroj" alt="namroj herokuapp stats" />
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namroj&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&locale=en" alt="namroj most used languages" />
+  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=namroj&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=tokyonight" alt="namroj github stats" />
+  <br />
+  <img width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=namroj" alt="namroj herokuapp stats" />
+  <br />
+  <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namroj&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&locale=en" alt="namroj most used languages" />
 </p>
 
 ### Get in touch
