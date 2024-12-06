@@ -58,5 +58,3 @@ I have been working professionally as a software developer since 2014.
 
 ### Get in touch
 [![Email](https://img.shields.io/badge/espinoza.dev@gmail.com-personal_email-111111?style=for-the-badge&logo=gmail&logoColor=white&labelColor=283618)](mailto:espinoza.dev@gmail.com)<br />
-[![Whatsapp](https://img.shields.io/badge/Whatsapp-111111?style=flat-square&logo=Whatsapp&logoColor=3ebd4e)](https://wa.me/5491127910154)
-[![Telegram](https://img.shields.io/badge/Telegram-111111?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/jormanespinoza)
