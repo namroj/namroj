@@ -39,7 +39,7 @@ I have been working professionally as a software developer since 2014.
 ### About myself
 - 🇻🇪  &nbsp;  I am originally from Venezuela
 - 🇦🇷  &nbsp;  I have been living and working in Argentina since 2017
-- 💻  I currently work as a **backend** developer at [Glamit](https://www.glamit.com.ar)
+- 💻  I currently work as a **full stack** developer at [Accenture](https://www.glamit.com.ar)
 - 🌏  I do freelance in my free time, here is my [portfolio](https://www.jorman.dev)
 - 🚀  I am a student at [Platzi](https://platzi.com/p/_jormanespinoza)
 - 🚀  I am a student at [Udemy](https://www.udemy.com/user/daniel-espinoza-15)
