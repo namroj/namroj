@@ -15,12 +15,14 @@ I have been working professionally as a software developer since 2014.
 
 ### Skills
 [![Git badge](https://img.shields.io/badge/git-e84e31?style=for-the-badge&logo=git&logoColor=e84e31e&labelColor=111111)](https://git-scm.com)
-[![AWS badge](https://img.shields.io/badge/aws-232f3f?style=for-the-badge&logo=amazon-aws&logoColor=f8981d&labelColor=111111)](https://aws.amazon.com)
-[![Postman badge](https://img.shields.io/badge/postman-df6742?style=for-the-badge&logo=postman&logoColor=df6742&labelColor=111111)](https://www.postman.com)<br />
+[![AWS badge](https://img.shields.io/badge/aws-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900&labelColor=111111)](https://aws.amazon.com)
+[![Postman badge](https://img.shields.io/badge/postman-df6742?style=for-the-badge&logo=postman&logoColor=df6742&labelColor=111111)](https://www.postman.com)[![Jira badge](https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=0052CC&labelColor=111111)](https://www.atlassian.com/software/jira)<br />
 [![Html5 badge](https://img.shields.io/badge/html-fe4c1e?style=for-the-badge&logo=html5&logoColor=fe4c1e&labelColor=111111)](https://html5.org)
 [![Css3 badge](https://img.shields.io/badge/css-1572b6?style=for-the-badge&logo=css3&logoColor=1572b6&labelColor=111111)](https://www.w3.org/Style/CSS/Overview.en.html)
 [![Sass badge](https://img.shields.io/badge/sass-c9679c?style=for-the-badge&logo=sass&logoColor=c9679c&labelColor=111111)](https://sass-lang.com)
-[![Bootstrap badge](https://img.shields.io/badge/bootstrap-7541bf?style=for-the-badge&logo=bootstrap&logoColor=7541bf&labelColor=111111)](https://getbootstrap.com)<br />
+[![Bootstrap badge](https://img.shields.io/badge/bootstrap-7541bf?style=for-the-badge&logo=bootstrap&logoColor=7541bf&labelColor=111111)](https://getbootstrap.com)
+[![Ant Design badge](https://img.shields.io/badge/ant%20design-0170FE?style=for-the-badge&logo=ant-design&logoColor=0170FE&labelColor=111111)](https://ant.design)
+[![Tailwind CSS badge](https://img.shields.io/badge/tailwindcss-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC&labelColor=111111)](https://tailwindcss.com)<br />
 [![JavaScript badge](https://img.shields.io/badge/javaScript-f7df1d?style=for-the-badge&logo=javascript&logoColor=f7df1d&labelColor=111111)](https://www.javascript.com)
 [![Typescript badge](https://img.shields.io/badge/typescript-27609e?style=for-the-badge&logo=typescript&logoColor=27609e&labelColor=111111)](https://www.typescriptlang.org)
 [![Jquery badge](https://img.shields.io/badge/jquery-156daa?style=for-the-badge&logo=jquery&logoColor=156daa&labelColor=111111)](https://jquery.com)
