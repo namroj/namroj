@@ -1,11 +1,12 @@
 # Hi there, I am Jorman Espinoza
 >[Jorman Daniel Espinoza Torrealba](https://jorman.dev/ "Jorman Espinoza") | Software Developer
 
-[![Website Badge](https://img.shields.io/badge/Website-283618?style=flat-square&logo=google-chrome&logoColor=283618&label=jormanespinoza&labelColor=111111)](https://jorman.dev)
+[![Website Badge](https://img.shields.io/badge/Website-283618?style=flat-square&logo=google-chrome&logoColor=283618&label=jorman.dev&labelColor=111111)](https://jorman.dev)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=0e76a8&label=jormanespinoza&labelColor=111111)](https://www.linkedin.com/in/jormanespinoza)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=00acee&label=jormandev&labelColor=111111)](https://twitter.com/jormandev)
+[![X.com Badge](https://img.shields.io/badge/X.com-1DA1F2?style=flat-square&logo=x&logoColor=white&label=jormandev&labelColor=111111)](https://x.com/jormandev)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=e4405f&label=jorman.dev&labelColor=111111)](https://www.instagram.com/jorman.dev)
-
+[![Threads Badge](https://img.shields.io/badge/Threads-000000?style=flat-square&logo=threads&logoColor=white&label=jorman.dev&labelColor=111111)](https://www.threads.net/@jorman.dev)
+[![Bluesky Badge](https://img.shields.io/badge/Bluesky-blue?style=flat-square&logo=bluesky&logoColor=white&label=jormandev&labelColor=111111)](hhttps://bsky.app/profile/jormandev.bsky.social)
 ## Professional software developer
 I have been working professionally as a software developer since 2014.
 
