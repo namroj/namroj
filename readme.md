@@ -28,6 +28,11 @@ I have been working professionally as a software developer since 2014.
 [![Jquery badge](https://img.shields.io/badge/jquery-156daa?style=for-the-badge&logo=jquery&logoColor=156daa&labelColor=111111)](https://jquery.com)
 [![React badge](https://img.shields.io/badge/react-00d8ff?style=for-the-badge&logo=react&logoColor=00d8ff&labelColor=111111)](https://reactjs.org)
 [![Angular badge](https://img.shields.io/badge/angular-d6002f?style=for-the-badge&logo=angular&logoColor=d6002f&labelColor=111111)](https://angular.io)<br />
+[![iOS badge](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white&labelColor=111111)](https://developer.apple.com/ios/)
+[![Android badge](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=3DDC84&labelColor=111111)](https://developer.android.com)
+[![React Native badge](https://img.shields.io/badge/React%20Native-00d8ff?style=for-the-badge&logo=react&logoColor=00d8ff&labelColor=111111)](https://reactnative.dev)
+[![Expo badge](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white&labelColor=111111)](https://expo.dev)<br />
+[![VTEX badge](https://img.shields.io/badge/VTEX-F71963?style=for-the-badge&logo=vtex&logoColor=F71963&labelColor=111111)](https://vtex.com)<br />
 [![Java badge](https://img.shields.io/badge/Java-0a71aa?style=for-the-badge&logo=oracle&logoColor=d53531&labelColor=111111)](https://www.java.com/en)
 [![Spring badge](https://img.shields.io/badge/spring-68bd45?style=for-the-badge&logo=spring&logoColor=68bd45&labelColor=111111)](https://spring.io)<br />
 [![Php badge](https://img.shields.io/badge/php-6c7eb7?style=for-the-badge&logo=php&logoColor=6c7eb7&labelColor=111111)](https://www.php.net)
