@@ -1,7 +1,7 @@
 # Hi there, I am Jorman Espinoza
->[Jorman Daniel Espinoza Torrealba](https://jorman.dev/ "Jorman Espinoza") | Software Developer
+>[Jorman Daniel Espinoza Torrealba](https://github.com/namroj "Jorman Espinoza") | Software Developer
 
-[![Website Badge](https://img.shields.io/badge/Website-283618?style=flat-square&logo=google-chrome&logoColor=283618&label=jorman.dev&labelColor=111111)](https://jorman.dev)
+[![GitHub Profile Badge](https://img.shields.io/badge/GitHub-283618?style=flat-square&logo=github&logoColor=white&label=namroj&labelColor=111111)](https://github.com/namroj)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=0e76a8&label=jormanespinoza&labelColor=111111)](https://www.linkedin.com/in/jormanespinoza)
 [![X.com Badge](https://img.shields.io/badge/X.com-1DA1F2?style=flat-square&logo=x&logoColor=white&label=jormandev&labelColor=111111)](https://x.com/jormandev)<br />
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=e4405f&label=jorman.dev&labelColor=111111)](https://www.instagram.com/jorman.dev)
@@ -27,6 +27,8 @@ I have been working professionally as a software developer since 2014.
 [![Typescript badge](https://img.shields.io/badge/typescript-27609e?style=for-the-badge&logo=typescript&logoColor=27609e&labelColor=111111)](https://www.typescriptlang.org)
 [![Jquery badge](https://img.shields.io/badge/jquery-156daa?style=for-the-badge&logo=jquery&logoColor=156daa&labelColor=111111)](https://jquery.com)
 [![React badge](https://img.shields.io/badge/react-00d8ff?style=for-the-badge&logo=react&logoColor=00d8ff&labelColor=111111)](https://reactjs.org)
+[![Next.js badge](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=111111)](https://nextjs.org)
+[![Astro badge](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=BC52EE&labelColor=111111)](https://astro.build)
 [![Angular badge](https://img.shields.io/badge/angular-d6002f?style=for-the-badge&logo=angular&logoColor=d6002f&labelColor=111111)](https://angular.io)<br />
 [![iOS badge](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white&labelColor=111111)](https://developer.apple.com/ios/)
 [![Android badge](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=3DDC84&labelColor=111111)](https://developer.android.com)
@@ -45,7 +47,7 @@ I have been working professionally as a software developer since 2014.
 - 🇻🇪  &nbsp;  I am originally from Venezuela
 - 🇦🇷  &nbsp;  I have been living and working in Argentina since 2017
 - 💻  I currently work as a **full stack** developer at [Accenture](https://www.glamit.com.ar)
-- 🌏  I do freelance in my free time, here is my [portfolio](https://www.jorman.dev)
+- 🌏  I do freelance in my free time, here is my [GitHub profile](https://github.com/namroj)
 - 🚀  I am a student at [Platzi](https://platzi.com/p/_jormanespinoza)
 - 🚀  I am a student at [Udemy](https://www.udemy.com/user/daniel-espinoza-15)
 - 🔼  I personally enjoy clean code
