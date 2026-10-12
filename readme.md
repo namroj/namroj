@@ -60,6 +60,8 @@ Originally from Venezuela, based in Buenos Aires, Argentina. I work with React, 
 
 [![Git badge](https://img.shields.io/badge/git-e84e31?style=for-the-badge&logo=git&logoColor=e84e31&labelColor=111111)](https://git-scm.com)
 [![AWS badge](https://img.shields.io/badge/aws-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900&labelColor=111111)](https://aws.amazon.com)
+[![Azure badge](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&labelColor=111111)](https://azure.microsoft.com)
+[![Docker badge](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=111111)](https://www.docker.com)
 [![Postman badge](https://img.shields.io/badge/postman-df6742?style=for-the-badge&logo=postman&logoColor=df6742&labelColor=111111)](https://www.postman.com)
 [![Jira badge](https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=0052CC&labelColor=111111)](https://www.atlassian.com/software/jira)
 
